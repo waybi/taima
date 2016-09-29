@@ -1,0 +1,150 @@
+{
+    "res": {
+        "modules/css/common.scss": {
+            "uri": "/static/stylesheet/modules/css/common.css",
+            "type": "css"
+        },
+        "modules/css/index.scss": {
+            "uri": "/static/stylesheet/modules/css/index.css",
+            "type": "css"
+        },
+        "components/bootstrap/css/bootstrap.css": {
+            "uri": "/components/bootstrap/css/bootstrap.css",
+            "type": "css",
+            "extras": {}
+        },
+        "views/partials/footer/footer.scss": {
+            "uri": "/static/views/partials/footer/footer.css",
+            "type": "css"
+        },
+        "views/pages/aboutUs/aboutUs.scss": {
+            "uri": "/static/views/pages/aboutUs/aboutUs.css",
+            "type": "css"
+        },
+        "lib/html5-shim.js": {
+            "uri": "/lib/html5-shim.js",
+            "type": "js"
+        },
+        "lib/mod.js": {
+            "uri": "/lib/mod.js",
+            "type": "js"
+        },
+        "views/pages/activity/activity.scss": {
+            "uri": "/static/views/pages/activity/activity.css",
+            "type": "css"
+        },
+        "views/pages/case/case.scss": {
+            "uri": "/static/views/pages/case/case.css",
+            "type": "css"
+        },
+        "views/pages/chezai/style.scss": {
+            "uri": "/static/views/pages/chezai/style.css",
+            "type": "css"
+        },
+        "views/pages/chezai/chezai.js": {
+            "uri": "/static/views/pages/chezai/chezai.js",
+            "type": "js",
+            "extras": {
+                "moduleId": "views/pages/chezai/chezai"
+            },
+            "deps": [
+                "components/bootstrap/bootstrap.js"
+            ]
+        },
+        "views/pages/contact/contact.scss": {
+            "uri": "/static/views/pages/contact/contact.css",
+            "type": "css"
+        },
+        "views/pages/growupPages/growingUp.scss": {
+            "uri": "/static/views/pages/growupPages/growingUp.css",
+            "type": "css"
+        },
+        "views/pages/join/joinIn.scss": {
+            "uri": "/static/views/pages/join/joinIn.css",
+            "type": "css"
+        },
+        "views/pages/join/joinIn.js": {
+            "uri": "/static/views/pages/join/joinIn.js",
+            "type": "js",
+            "extras": {
+                "moduleId": "views/pages/join/joinIn"
+            },
+            "deps": [
+                "components/bootstrap/bootstrap.js",
+                "views/pages/join/joinIn.scss"
+            ]
+        },
+        "views/pages/news/news.scss": {
+            "uri": "/static/views/pages/news/news.css",
+            "type": "css"
+        },
+        "modules/css/product.scss": {
+            "uri": "/static/stylesheet/modules/css/product.css",
+            "type": "css"
+        },
+        "views/pages/secondary/style.scss": {
+            "uri": "/static/views/pages/secondary/style.css",
+            "type": "css"
+        },
+        "views/pages/video/video.scss": {
+            "uri": "/static/views/pages/video/video.css",
+            "type": "css"
+        },
+        "views/pages/wuliu/wuliu.scss": {
+            "uri": "/static/views/pages/wuliu/wuliu.css",
+            "type": "css"
+        },
+        "components/bootstrap/bootstrap.js": {
+            "uri": "/components/bootstrap/bootstrap.js",
+            "type": "js",
+            "extras": {
+                "moduleId": "components/bootstrap/bootstrap"
+            },
+            "deps": [
+                "components/jquery/jquery.js",
+                "components/bootstrap/carousel.js",
+                "components/bootstrap/tab.js"
+            ]
+        },
+        "components/jquery/jquery.js": {
+            "uri": "/components/jquery/jquery.js",
+            "type": "js",
+            "extras": {
+                "moduleId": "components/jquery/jquery"
+            }
+        },
+        "components/bootstrap/carousel.js": {
+            "uri": "/components/bootstrap/carousel.js",
+            "type": "js",
+            "extras": {
+                "moduleId": "components/bootstrap/carousel"
+            },
+            "deps": [
+                "components/jquery/jquery.js",
+                "components/bootstrap/transition.js"
+            ]
+        },
+        "components/bootstrap/tab.js": {
+            "uri": "/components/bootstrap/tab.js",
+            "type": "js",
+            "extras": {
+                "moduleId": "components/bootstrap/tab"
+            },
+            "deps": [
+                "components/jquery/jquery.js",
+                "components/bootstrap/transition.js"
+            ]
+        },
+        "components/bootstrap/transition.js": {
+            "uri": "/components/bootstrap/transition.js",
+            "type": "js",
+            "extras": {
+                "moduleId": "components/bootstrap/transition"
+            },
+            "deps": [
+                "components/jquery/jquery.js"
+            ]
+        }
+    },
+    "pkg": {}
+}
